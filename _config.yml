@@ -26,7 +26,7 @@ avatar: '/assets/img/prof ile.png'
 search: true
 
 # Night mode
-nightMode: false
+nightMode: true
 
 # Gitalk
 gitalk:
