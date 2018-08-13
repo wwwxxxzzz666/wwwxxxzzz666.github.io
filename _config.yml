@@ -28,9 +28,17 @@ search: true
 # Night mode
 nightMode: true
 
+# Gitalk
+gitalk:
+  used: true
+  clientID: '97ea4078ad6428a1742e'
+  clientSecret: 'a1a943952331a000b278e6d9212b8765b0ccea52'
+  repo: 'wwwxxxzzz666-Blog-Comments'
+  owner: 'wwwxxxzzz666'
+
 # Comments 评论功能
 comments:
-  disqus: true
+  disqus: false
   disqus_url: 'https://wwwxxxzzz666.disqus.com/embed.js'
 
 # MathJax 公式支持 by Ray-Eldath
