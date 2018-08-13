@@ -3,7 +3,7 @@ var gulp = require('gulp'),
     sass = require('gulp-sass'), // 编译sass
     cleanCSS = require('gulp-clean-css'), // 压缩css文件
     rename = require('gulp-rename'); // 文件重命名
-
+ 
 gulp.task('scripts', function(){
     gulp.src('dev/js/index.js')
         .pipe(uglify())
