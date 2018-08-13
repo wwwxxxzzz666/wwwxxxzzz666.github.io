@@ -11,6 +11,6 @@ class utils {
   }
 
   static isMobile() {
-    return window.screen.width < 20;  //767
+    return window.screen.width < 767;  //767
   }
 }
