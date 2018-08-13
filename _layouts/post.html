@@ -100,9 +100,7 @@
     </section>
   </section>
 
-  {% include footer.html %}
-
-    {% if site.gitalk.used %}
+  {% if site.gitalk.used %}
   <!-- Gitalk 评论 start  -->
 
 <!-- Link Gitalk 的支持文件  -->
@@ -123,8 +121,10 @@
     gitalk.render('gitalk-container');
 </script>
 <!-- Gitalk end -->
-    {% endif %}
+  {% endif %}
   
+  {% include footer.html %}
+
   <script src="/assets/js/social-share.min.js"></script>
   <script>
     socialShare('.social-share', {
