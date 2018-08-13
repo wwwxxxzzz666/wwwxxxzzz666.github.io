@@ -1,13 +1,11 @@
 <footer class="g-footer">
-  <section>{{ site.title }} ©
+  <section>{{ site.title }} CC0协议
   {% assign current = "now" | date: "%Y" | plus: 0%}
   {% unless site.footer.since and site.footer.since == current %}
     {{ site.footer.since }}
     -
   {% endunless %}
   {{ current }}
-  </section>
-  <section>本Blog所有文章遵循CC0协议
    </section>
   <section>Powered by <a href="//jekyllrb.com">Jekyll</a> | <a href="https://github.com/kaeyleo/jekyll-theme-H2O">Theme H2O</a></section>
 </footer>
