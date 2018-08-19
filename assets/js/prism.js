@@ -1,5 +1,5 @@
 /* PrismJS 1.15.0
-https://prismjs.com/download.html#themes=prism-okaidia&languages=markup+css+clike+javascript+applescript+c+asciidoc+asm6502+csharp+bash+basic+brainfuck+cpp+aspnet+coffeescript+ruby+css-extras+markup-templating+fsharp+git+go+http+hpkp+hsts+icon+java+json+latex+markdown+liquid+lisp+makefile+matlab+objectivec+pascal+perl+php+php-extras+sql+powershell+scss+python+sass+smalltalk+plsql+yaml+haml+vbnet+visual-basic+wasm+wiki&plugins=toolbar+show-language+copy-to-clipboard */
+https://prismjs.com/download.html#themes=prism-solarizedlight&languages=markup+css+clike+javascript+applescript+c+asciidoc+asm6502+csharp+bash+basic+brainfuck+cpp+aspnet+coffeescript+ruby+css-extras+markup-templating+fsharp+git+go+http+hpkp+hsts+icon+java+json+latex+markdown+liquid+lisp+makefile+matlab+objectivec+pascal+perl+php+php-extras+sql+powershell+scss+python+sass+smalltalk+plsql+yaml+haml+vbnet+visual-basic+wasm+wiki&plugins=toolbar+show-language+copy-to-clipboard */
 var _self = (typeof window !== 'undefined')
 	? window   // if in browser
 	: (
