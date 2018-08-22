@@ -8,7 +8,7 @@ cover: 'https://justyy.com/wp-content/uploads/2016/01/markdown-syntax-language.p
 tags: 语言 生产力 Blog页面相关
 ---
 
-__各位巨佬(Orz)请直接无视这篇文章。__
+__~~FBI~~ Warning: 各位巨佬(Orz)请直接无视这篇文章。__
 
 经过一番斟酌后，我决定先写一篇最基本的关于$Markdown$和$L^AT_EX$简单介绍，~~不过这年头人恐怕也没几个不知道这个的吧~~，关于它们的说明与使用介绍早已经烂大街了，不过我还是想在这写一下，就当是一个自我复习了。~~其实是我太水根本不会别的东西~~
 
