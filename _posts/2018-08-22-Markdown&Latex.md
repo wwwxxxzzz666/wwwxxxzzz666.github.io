@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Markdown以及LaTex公式简单介绍
-subtitle: 第一生产力~~
+subtitle: 第一生产力
 date: 2018-08-22
 categories: 生产力
 cover: 'https://justyy.com/wp-content/uploads/2016/01/markdown-syntax-language.png'
