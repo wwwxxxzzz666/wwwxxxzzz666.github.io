@@ -4,7 +4,8 @@ title: $Markdown$以及$L^AT_EX$公式简单介绍
 subtitle: $Markdown+L^AT_EX=$第一生产力
 date: 2018-08-22
 categories: 生产力
-cover: 'https://justyy.com/wp-content/uploads/2016/01/markdown-syntax-language.png'
+cover: 'https://i.loli.net/2018/09/12/5b9910cac71dd.png'
+cover_bak: 'https://justyy.com/wp-content/uploads/2016/01/markdown-syntax-language.png'
 tags: 语言 生产力 Blog页面相关
 ---
 
