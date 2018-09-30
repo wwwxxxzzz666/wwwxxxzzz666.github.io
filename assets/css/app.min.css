@@ -754,7 +754,7 @@ a {
  padding:0;
  top:0;
  background-color:#aab4ca;
- border-radius:3px;
+ border-radius:16px;
  overflow:hidden;
  box-shadow:0 2px 10px rgba(109,127,144,.5);
  transition:box-shadow .4s ease,top .3s ease
