@@ -55,9 +55,9 @@ a {
 }
 .g-header .g-logo {
  float:left;
- margin-left:2%;
- width:60px;
- height:26px;
+ margin-left:5%;
+ width:86px;
+ height:36px;
  background:url(../icons/logo.svg) no-repeat center;
  background-size:100% 100%;
  opacity:.8;
@@ -1055,7 +1055,7 @@ a {
   display:none;
   width:120px;
   background-color:#fff;
-  border-radius:2px;
+  border-radius:16px;
   padding:8px 16px;
   box-shadow:0 3px 8px rgba(0,0,0,.2)
  }
