@@ -1,7 +1,7 @@
 ---
 layout: post
-title: $Markdown$以及$L^AT_EX$公式简单介绍
-subtitle: $Markdown+L^AT_EX=$第一生产力
+title: $Markdown$以及$\LaTeX{}$公式简单介绍
+subtitle: $Markdown+\LaTeX{}=$第一生产力
 date: 2018-08-22
 categories: 生产力
 cover: 'https://i.loli.net/2018/09/12/5b9910cac71dd.png'
@@ -11,7 +11,7 @@ tags: 语言 生产力 Blog页面相关
 
 ___~~FBI~~ Warning: 各位巨佬(Orz)请直接无视这篇文章。___
 
-经过一番斟酌后，我决定先写一篇最基本的关于$Markdown$和$L^AT_EX$简单介绍，~~不过这年头人恐怕也没几个不知道这个的吧~~，虽然这种文章早已经烂大街了，但是我还是想在这写一下，就当是一个自我复习了。~~其实是我太水根本不会别的东西~~
+经过一番斟酌后，我决定先写一篇最基本的关于$Markdown$和$\LaTeX{}$简单介绍，~~不过这年头人恐怕也没几个不知道这个的吧~~，虽然这种文章早已经烂大街了，但是我还是想在这写一下，就当是一个自我复习了。~~其实是我太水根本不会别的东西~~
 
 ## $Markdown$
 
