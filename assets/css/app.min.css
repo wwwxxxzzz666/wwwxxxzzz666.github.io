@@ -1049,15 +1049,16 @@ a {
   display:block
  }
  .g-header .g-nav {
-  position:relative;
-  top:48px;
-  right:1%;
-  display:none;
-  width:120px;
-  background-color:#fff;
-  border-radius:16px;
-  padding:8px 16px;
-  box-shadow:0 3px 8px rgba(0,0,0,.2)
+  position:fixed;
+  top: 0px;
+  right: -15px;
+  display: none;
+  background-color: #fff;
+  border-radius: 2px;
+  padding: 8px 16px;
+  box-shadow: -160px 0px 226px rgba(12, 7, 7, 0.2);
+  width: 42%;
+  height: 100%;
  }
  .g-header .g-nav>ul>li {
   float:none;
