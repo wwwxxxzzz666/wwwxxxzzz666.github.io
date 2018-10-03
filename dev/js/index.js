@@ -6,9 +6,9 @@ $(document).ready(function(){
      */
     $('#menu-toggle').on('click', function(e) {
         var duration = 200;
-        nav.slideToggle(duration);
+        nav.animate({right:"-15px"},duration);
         $(document).on('click', function() {
-            nav.slideUp(duration);
+            nav.animate({right:"-666px"},duration);
         });
         e.stopPropagation();
     });
