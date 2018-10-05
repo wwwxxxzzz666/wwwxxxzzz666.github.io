@@ -642,6 +642,8 @@
 /* header */
 /* comments */
 /* comment */
+  margin-left: 6%;
+  margin-right: 6%;
 }
 .gt-container * {
   -webkit-box-sizing: border-box;
@@ -746,7 +748,7 @@
 .gt-container .gt-avatar img {
   width: 100%;
   height: auto;
-  border-radius: 3px;
+  border-radius: 50%;
 }
 .gt-container .gt-avatar-github {
   width: 3em;
@@ -932,7 +934,7 @@
   width: 100%;
   min-height: 5.125em;
   max-height: 15em;
-  border-radius: 5px;
+  border-radius: 16px;
   border: 1px solid rgba(0,0,0,0.1);
   font-size: 0.875em;
   word-wrap: break-word;
