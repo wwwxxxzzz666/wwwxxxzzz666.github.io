@@ -61,7 +61,8 @@ a {
  background:url(../icons/logo.svg) no-repeat center;
  background-size:100% 100%;
  opacity:.8;
- transition:all .2s
+ transition:all .2s;
+ margin-top: -6px;
 }
 .g-header .g-logo:hover {
  opacity:1
@@ -80,7 +81,8 @@ a {
  font-size:28px;
  color:#fff;
  opacity:.8;
- border-radius:3px
+ border-radius:3px;
+ margin-top: -15px;
 }
 .g-header .icon-menu:active {
  background-color:rgba(255,255,255,.2)
