@@ -1040,11 +1040,6 @@ a {
  }
 }
 @media screen and (max-width:695px) {
- .g-header {
-  position:absolute;
-  top:0;
-  padding:28px 0
- }
  .g-header .icon-menu {
   display:block
  }
