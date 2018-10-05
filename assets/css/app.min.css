@@ -983,7 +983,7 @@ a {
  background-color:rgba(0,0,0,.6)
 }
 .night-mode :not(pre)>code[class*=language-],.night-mode pre[class*=language-] {
- background-color:#fffcc9
+ background-color:#38375ce6;
 }
 .night-mode .language-css .token.string,.night-mode .style .token.string,.night-mode .token.entity,.night-mode .token.operator,.night-mode .token.punctuation,.night-mode .token.url,.night-mode .token.variable,.night-mode code[class*=language-],.night-mode pre[class*=language-] {
  color:#8f97a7
