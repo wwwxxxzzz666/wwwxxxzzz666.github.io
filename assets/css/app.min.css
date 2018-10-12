@@ -87,6 +87,18 @@ a {
 .g-header .icon-menu:active {
  background-color:rgba(255,255,255,.2)
 }
+.yes {
+margin-left: -16px;
+background-color: #3091eb;
+margin-top: -10px;
+width: 666px;
+display: none;
+}
+.yes .nav-head {
+font-size: 63px;
+line-height: 60px;
+color: #99c9ff;
+}
 .g-header .g-nav {
  float:right;
  margin-right:2%
@@ -1045,6 +1057,9 @@ a {
  .g-header .icon-menu {
   display:block
  }
+ .yes {
+  display:block
+  }
  .g-header .g-nav {
   position:fixed;
   top: 0px;
