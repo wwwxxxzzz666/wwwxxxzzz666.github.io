@@ -979,6 +979,11 @@ color: #99c9ff;
 .night-mode .markdown-body {
  color:#868a94
 }
+.night-mode .markdown-body p code {
+ color:#769bd2;
+ background-color:#ffffff1a;
+}
+
 .night-mode .markdown-body img {
  -webkit-filter:brightness(.6)
 }
