@@ -100,18 +100,16 @@ $Markdown$是一种标记语言，不过不像$HTML$那么正式与复杂，这�
     
 5. 链接
 
-    用`[]`和`()`括起来即可，前者为链接标题(可省略)，后者为链接地址。
+    用`[]`和`()`括起来即可，前者为链接标题，后者为链接地址。
     
     例子:
     ```Markdown
     [wwwxxxzzz666's Blog](https://wwwxxxzzz666.github.io)
-    (https://wwwxxxzzz666.github.io)
     ```
     
     效果:
     
     [wwwxxxzzz666's Blog](https://wwwxxxzzz666.github.io)
     
-    (https://wwwxxxzzz666.github.io)
     
  **(留坑待补)**
