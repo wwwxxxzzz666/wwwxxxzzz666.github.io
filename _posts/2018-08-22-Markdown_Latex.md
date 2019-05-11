@@ -4,7 +4,7 @@ title: $Markdown$以及$\LaTeX{}$公式简单介绍
 subtitle: $Markdown+\LaTeX{}=$第一生产力
 date: 2018-08-22
 categories: 生产力
-cover: 'https://i.loli.net/2018/09/12/5b9910cac71dd.png'
+cover: 'https://i.loli.net/2019/05/11/5cd65f8aa5250.png'
 cover_bak: 'https://justyy.com/wp-content/uploads/2016/01/markdown-syntax-language.png'
 tags: 语言 生产力 Blog页面相关
 ---
